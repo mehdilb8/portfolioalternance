@@ -401,6 +401,7 @@ section {
   text-align: center;
 }
 
+<<<<<<< HEAD
 .portfolios .portfolio-item {
   position: relative;
   border-radius: 15px;
@@ -450,6 +451,8 @@ section {
   margin: 0 0.5rem;
 }
 
+=======
+>>>>>>> 77aa3924dd5e0c54a88e0ad4ed2e00881ad9f6b8
 .portfolios {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
